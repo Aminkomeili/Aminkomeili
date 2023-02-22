@@ -1,21 +1,17 @@
-### Hi there 👋
-### Overview
 
-Hi there! My name is Amin and I use Python and Bash scripting for my programming needs. Currently, I work in the NetDevOps field and I am always looking to learn new technologies and develop new projects.
+Hello! I'm a DevOps Engineer, Python Developer, Network Engineer, and Linux enthusiast with a passion for automating and optimizing systems. My expertise lies in building and deploying complex software applications, designing secure and scalable network architectures, and managing Linux servers.
 
+## Skills
 
-### Skills
-
+    DevOps: Docker, Kubernetes, Jenkins, Ansible, Terraform,...
     Programming Languages: Python, Bash scripting
-    DevOps Skills , Network Skills
+    Network Engineering: TCP/IP, VPN, Routing, Switching, Firewalls,...
+    Linux: Ubuntu, CentOS, RedHat, Debian
 
-## Contact Me
+## Contact
 
     Email: a.komeili@ymail.com
-    linkedin: https://www.linkedin.com/in/aminkomeili/
-
-If you have any guidance or questions for me, please feel free to reach out. I am always looking to improve my skills and eager to collaborate with new people.
-
+    LinkedIn: https://www.linkedin.com/in/aminkomeili/
 <!--
 **Aminkomeili/Aminkomeili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
