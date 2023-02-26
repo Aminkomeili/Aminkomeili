@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amin Komeili</h1>
 <h3 align="center">DevOps and Network Engineer</h3>
 
-- 💬 Ask me about **Python , Bash Script**
+- 💬 Ask me about **DevOps ,Python , Bash Script**
 
 - 📫 How to reach me **a.komeili@ymail.com**
 
