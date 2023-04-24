@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminkomeili&label=Profile%20views&color=0e75b6&style=flat" alt="aminkomeili" /> </p>
 
+## About me :
 - 💬 As a skilled Network and DevOps Engineer, I possess a diverse set of technical expertise that enable me to deliver reliable solutions in complex environments. My network skills include a Cisco CCIE Routing & Switching certification, experience with Asterisk, Panasonic, Ericsson, and Issable administration, and expertise in wireless network engineering, Microsoft Windows server administration, and ethical hacking and network defense engineering. In addition, I have experience with Cisco Voice Collaboration (CUCM, CME) and Mikrotik Router Board administration.
 
 - 💬 On the DevOps side, I bring a strong background in Linux and Windows server administration and an in-depth knowledge of TCP/IP. My expertise in containers and container orchestration technologies (Docker, Docker Swarm, Kubernetes), automation/configuration management using Ansible, and scripting skills with Bash and Python enable me to develop and maintain reliable and scalable systems. I have experience with Key-Value and NoSQL solutions (Redis, MongoDB) and Relational Database solutions (MSSQL, PSQL, SQLlite), as well as continuous monitoring using Zabbix, Prometheus, Grafana, ELK, EFK. I am also proficient in web servers and load balancers (Nginx, HAproxy) and logs management using Splunk.
